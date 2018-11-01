@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sergei/CLionProjects/Commnad/Command/Comand.h
+/Users/sergei/CLionProjects/Commnad/Process/process.h
+-
+
+/Users/sergei/CLionProjects/Commnad/Process/process.h
+iostream
+-
+
+/Users/sergei/CLionProjects/Commnad/Reciver/Reciver.h
+../Command/Comand.h
+/Users/sergei/CLionProjects/Commnad/Command/Comand.h
+
+/Users/sergei/CLionProjects/Commnad/main.cpp
+iostream
+-
+Reciver/Reciver.h
+/Users/sergei/CLionProjects/Commnad/Reciver/Reciver.h
+

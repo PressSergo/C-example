@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sergei/CLionProjects/factory/Aircraft/Aircraft.h
+
+/Users/sergei/CLionProjects/factory/Store/Store.h
+string
+-
+iostream
+-
+/Users/sergei/CLionProjects/factory/Aircraft/Aircraft.h
+-
+
+/Users/sergei/CLionProjects/factory/main.cpp
+iostream
+-
+Aircraft/Aircraft.h
+/Users/sergei/CLionProjects/factory/Aircraft/Aircraft.h
+Store/Store.h
+/Users/sergei/CLionProjects/factory/Store/Store.h
+

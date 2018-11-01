@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sergei/CLionProjects/Adapter/AdapterToy/AdapterToy.h
+/Users/sergei/CLionProjects/Adapter/Duck/DUck.h
+-
+/Users/sergei/CLionProjects/Adapter/AdapterToy/Toy.h
+-
+
+/Users/sergei/CLionProjects/Adapter/AdapterToy/Toy.h
+iostream
+-
+
+/Users/sergei/CLionProjects/Adapter/BehaviorDuck/Behavior.h
+
+/Users/sergei/CLionProjects/Adapter/BehaviorDuck/RBehavior.h
+/Users/sergei/CLionProjects/Adapter/BehaviorDuck/Behavior.h
+-
+iostream
+/Users/sergei/CLionProjects/Adapter/BehaviorDuck/iostream
+
+/Users/sergei/CLionProjects/Adapter/Duck/ConcreteDuck.h
+/Users/sergei/CLionProjects/Adapter/Duck/DUck.h
+-
+
+/Users/sergei/CLionProjects/Adapter/Duck/DUck.h
+/Users/sergei/CLionProjects/Adapter/BehaviorDuck/RBehavior.h
+-
+
+/Users/sergei/CLionProjects/Adapter/main.cpp
+iostream
+-
+Duck/ConcreteDuck.h
+/Users/sergei/CLionProjects/Adapter/Duck/ConcreteDuck.h
+AdapterToy/AdapterToy.h
+/Users/sergei/CLionProjects/Adapter/AdapterToy/AdapterToy.h
+

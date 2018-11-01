@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sergei/CLionProjects/Decorator/Decor/Decor.cpp
+Decor.h
+/Users/sergei/CLionProjects/Decorator/Decor/Decor.h
+
+/Users/sergei/CLionProjects/Decorator/Decor/Decor.h
+/Users/sergei/CLionProjects/Decorator/Linker/Linker.h
+-
+
+/Users/sergei/CLionProjects/Decorator/Linker/Linker.cpp
+Linker.h
+/Users/sergei/CLionProjects/Decorator/Linker/Linker.h
+
+/Users/sergei/CLionProjects/Decorator/Linker/Linker.h
+string
+-
+
+/Users/sergei/CLionProjects/Decorator/main.cpp
+iostream
+-
+/Users/sergei/CLionProjects/Decorator/Decor/Decor.h
+-
+/Users/sergei/CLionProjects/Decorator/Linker/Linker.h
+-
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sergei/CLionProjects/DoubleLinkList/Dou leLInkList.h
+ctime
+-
+iostream
+-
+
+/Users/sergei/CLionProjects/DoubleLinkList/main.cpp
+iostream
+-
+Dou leLInkList.h
+/Users/sergei/CLionProjects/DoubleLinkList/Dou leLInkList.h
+

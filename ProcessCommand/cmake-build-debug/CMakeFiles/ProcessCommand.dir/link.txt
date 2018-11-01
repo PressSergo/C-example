@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/ProcessCommand.dir/main.cpp.o CMakeFiles/ProcessCommand.dir/Process/Process.cpp.o CMakeFiles/ProcessCommand.dir/CommandProcess/CommandProc.cpp.o CMakeFiles/ProcessCommand.dir/Reciver/Reciver.cpp.o  -o ProcessCommand 

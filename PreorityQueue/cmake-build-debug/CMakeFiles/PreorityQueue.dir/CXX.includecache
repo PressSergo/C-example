@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sergei/CLionProjects/PreorityQueue/PreorityQueue.h
+iostream
+-
+
+/Users/sergei/CLionProjects/PreorityQueue/main.cpp
+iostream
+-
+PreorityQueue.h
+/Users/sergei/CLionProjects/PreorityQueue/PreorityQueue.h
+

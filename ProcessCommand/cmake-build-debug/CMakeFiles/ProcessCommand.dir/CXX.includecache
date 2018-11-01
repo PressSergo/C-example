@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sergei/CLionProjects/ProcessCommand/CommandProcess/CommandProc.cpp
+CommandProc.h
+/Users/sergei/CLionProjects/ProcessCommand/CommandProcess/CommandProc.h
+
+/Users/sergei/CLionProjects/ProcessCommand/CommandProcess/CommandProc.h
+/Users/sergei/CLionProjects/ProcessCommand/Process/Process.h
+-
+
+/Users/sergei/CLionProjects/ProcessCommand/Process/Process.cpp
+iostream
+-
+Process.h
+/Users/sergei/CLionProjects/ProcessCommand/Process/Process.h
+
+/Users/sergei/CLionProjects/ProcessCommand/Process/Process.h
+string
+-
+
+/Users/sergei/CLionProjects/ProcessCommand/Reciver/Reciver.cpp
+Reciver.h
+/Users/sergei/CLionProjects/ProcessCommand/Reciver/Reciver.h
+
+/Users/sergei/CLionProjects/ProcessCommand/Reciver/Reciver.h
+vector
+-
+/Users/sergei/CLionProjects/ProcessCommand/CommandProcess/CommandProc.h
+-
+
+/Users/sergei/CLionProjects/ProcessCommand/main.cpp
+iostream
+-
+Reciver/Reciver.h
+/Users/sergei/CLionProjects/ProcessCommand/Reciver/Reciver.h
+

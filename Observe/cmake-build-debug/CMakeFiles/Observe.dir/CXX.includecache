@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sergei/CLionProjects/Observe/Observe/Observe.cpp
+iostream
+-
+Observe.h
+/Users/sergei/CLionProjects/Observe/Observe/Observe.h
+
+/Users/sergei/CLionProjects/Observe/Observe/Observe.h
+vector
+-
+
+/Users/sergei/CLionProjects/Observe/main.cpp
+iostream
+-
+Observe/Observe.h
+/Users/sergei/CLionProjects/Observe/Observe/Observe.h
+

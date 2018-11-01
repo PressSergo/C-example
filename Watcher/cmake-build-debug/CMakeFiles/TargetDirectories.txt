@@ -1,0 +1,3 @@
+/Users/sergei/CLionProjects/Watcher/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sergei/CLionProjects/Watcher/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sergei/CLionProjects/Watcher/cmake-build-debug/CMakeFiles/Watcher.dir

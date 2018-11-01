@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sergei/CLionProjects/Patterns(Shablon)/ConnectServer/ConnectorServer.h
+string
+-
+iostream
+-
+
+/Users/sergei/CLionProjects/Patterns(Shablon)/ServerStream/TypeServer.h
+/Users/sergei/CLionProjects/Patterns(Shablon)/ConnectServer/ConnectorServer.h
+-
+
+/Users/sergei/CLionProjects/Patterns(Shablon)/main.cpp
+iostream
+-
+ServerStream/TypeServer.h
+/Users/sergei/CLionProjects/Patterns(Shablon)/ServerStream/TypeServer.h
+

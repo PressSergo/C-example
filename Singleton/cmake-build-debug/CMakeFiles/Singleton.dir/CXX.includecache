@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sergei/CLionProjects/Singleton/Singelton.cpp
+ctime
+-
+iostream
+-
+Singelton.h
+/Users/sergei/CLionProjects/Singleton/Singelton.h
+
+/Users/sergei/CLionProjects/Singleton/Singelton.h
+
+/Users/sergei/CLionProjects/Singleton/main.cpp
+iostream
+-
+Singelton.h
+/Users/sergei/CLionProjects/Singleton/Singelton.h
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sergei/CLionProjects/Tree234/Tree.h
+iostream
+-
+cstdio
+-
+
+/Users/sergei/CLionProjects/Tree234/main.cpp
+Tree.h
+/Users/sergei/CLionProjects/Tree234/Tree.h
+

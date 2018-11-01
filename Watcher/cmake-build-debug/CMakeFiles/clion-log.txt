@@ -1,0 +1,4 @@
+"/Users/sergei/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-1/173.3188.25/CLion 2017.3 EAP.app/Contents/bin/cmake/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/sergei/CLionProjects/Watcher
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/sergei/CLionProjects/Watcher/cmake-build-debug

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sergei/CLionProjects/BinarySearch/Array.cpp
+Array.h
+/Users/sergei/CLionProjects/BinarySearch/Array.h
+ctime
+-
+
+/Users/sergei/CLionProjects/BinarySearch/Array.h
+iostream
+-
+
+/Users/sergei/CLionProjects/BinarySearch/main.cpp
+iostream
+-
+Array.h
+/Users/sergei/CLionProjects/BinarySearch/Array.h
+
